@@ -11,10 +11,10 @@ Proyecto Final Integrador para la asignatura **Lógica Computacional**
 El **SIEC** es un sistema inteligente desarrollado en Python que automatiza el proceso de preselección de postulantes (para puestos laborales o becas tecnológicas) aplicando un motor de decisiones basado en lógica proposicional, álgebra de boole y funciones simplificadas mediante mapas de Karnaugh.
 
 El sistema evalúa cuatro dimensiones clave del candidato:
-1. **L ($Lógica):** Resolución de pruebas de razonamiento deductivo y silogismos.
-2. **T ($Técnica):** Fundamentos de programación y algoritmos.
-3. **S ($Sociales):** Competencias actitudinales, empatía y resolución de conflictos.
-4. **E ($Excluyente):** Verificación de cumplimiento documental y normativo.
+1. **L (Lógica):** Resolución de pruebas de razonamiento deductivo y silogismos.
+2. **T (Técnica):** Fundamentos de programación y algoritmos.
+3. **S (Sociales):** Competencias actitudinales, empatía y resolución de conflictos.
+4. **E (Excluyente):** Verificación de cumplimiento documental y normativo.
 
 ---
 
